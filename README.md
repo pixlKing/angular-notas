@@ -1,6 +1,6 @@
 # AngularNotas
 
-Proyecto CRUD en Angular version 6 para la creacion de notas y recordatorios. Se pueden crear, leer, actualizar y borrar las notas, las cuales se guardan en firebase.
+Proyecto CRUD en Angular version 6 para la creacion de notas y recordatorios. Se pueden crear, leer, actualizar y borrar las notas, las cuales se guardan en firebase. Look & Feel hecho con Boostrap.
 
 ## Development server
 
