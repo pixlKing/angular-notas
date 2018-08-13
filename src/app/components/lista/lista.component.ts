@@ -11,8 +11,8 @@ export class ListaComponent implements OnInit {
 	items:any;
 
 	editarItem:any = {
-		name:'';
-	}
+		name:''
+	};
 
 	constructor( private conexion:ConexionService ) {
 
